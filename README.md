@@ -4,7 +4,11 @@ A responsive, interactive React app to help you keep track of what to pack for y
 
 ---
 
+## 🔗 Preview
 
+👉 [View Live App](https://travel-list-sanskar-lodha.vercel.app/)
+
+---
 
 ## ✨ Features
 
@@ -26,10 +30,10 @@ A responsive, interactive React app to help you keep track of what to pack for y
 - **Tailwind CSS**
 - Hosted icons and fonts via Google Fonts & Flaticon
 
-
-
 ---
+
 ## 🛠 Usage
+
 - Type an item (e.g., "Toothbrush"), select quantity, and hit "ADD".
 
 - Check the box to mark as packed.
@@ -39,5 +43,3 @@ A responsive, interactive React app to help you keep track of what to pack for y
 - Click ❌ to delete individual items or "Clear List" to remove all.
 
 - Footer shows packing progress and credits.
-
-
