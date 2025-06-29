@@ -60,7 +60,7 @@ export default function Footer({ items }) {
 
             {/* GitHub */}
             <a
-              href="https://github.com/sanskar-lodha"
+              href="https://github.com/Sanskar-Lodha/travel_list"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1"
@@ -146,7 +146,7 @@ export default function Footer({ items }) {
 
           {/* GitHub */}
           <a
-            href="https://github.com/sanskar-lodha"
+            href="https://github.com/Sanskar-Lodha/travel_list"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1"
